@@ -72,9 +72,9 @@ AI/ML applications
 Full-stack products
 
 📫 Contact
-💼 LinkedIn: add link
+💼 LinkedIn: www.linkedin.com/in/abhiramr09
 
-📧 Email: add email
+📧 Email: mukundabhiram123@gmail.com
 
 ⚡ Philosophy
 Build things that work. Optimize later. Learn continuously.
