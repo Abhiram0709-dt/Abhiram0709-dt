@@ -47,9 +47,10 @@ I enjoy working across the stack — from **data & models** to **APIs, databases
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhiram0709-dt&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhiram0709-dt&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abhiram0709-dt&theme=tokyonight" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhiram0709-dt&theme=tokyonight" height="165"/>
 </p>
+
 
 ---
 
@@ -79,8 +80,8 @@ Open to collaborating on:
 ---
 
 ## 📫 Contact
-- 💼 LinkedIn: https://linkedin.com/in/your-link  
-- 📧 Email: your.email@example.com  
+- 💼 LinkedIn: www.linkedin.com/in/abhiramr09  
+- 📧 Email: mukundabhiram123@gmail.com
 
 ---
 
